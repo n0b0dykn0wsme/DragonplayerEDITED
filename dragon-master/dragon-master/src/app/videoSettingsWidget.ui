@@ -39,7 +39,7 @@
      <item row="1" column="0">
       <widget class="QLabel" name="contrastLabel">
        <property name="text">
-        <string comment="@label:slider">Contrast:</string>
+        <string comment="@label:slider">Death:</string>
        </property>
       </widget>
      </item>
@@ -125,7 +125,7 @@
      <item>
       <widget class="QPushButton" name="defaultsButton">
        <property name="text">
-        <string comment="@action:button">Restore Defaults</string>
+        <string comment="@action:button">Erase your dish</string>
        </property>
       </widget>
      </item>
